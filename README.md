@@ -4,7 +4,7 @@
 
 #### Sample of Exported Kindle Notes (Notes): 
 
-![Website](https://user-images.githubusercontent.com/36043248/104812522-b381c980-57fa-11eb-886d-c49ff65a9087.PNG)
+![ExportedKindleNotes](https://user-images.githubusercontent.com/36043248/112213886-7b41a180-8c16-11eb-816e-910bdc803f36.PNG)
 
 #### Sample of Exported Kindle Vocab-Builder (Notes): 
 
@@ -24,8 +24,10 @@
 6. Download Kindle Mate @ https://kmate.me/download/
 7. Open the app and navigate to the 'Vocabulary Words' -> 'Learning'. You will now see all the words that exist in your Kindle Vocab Builder
 
+![KindleMateSetup_1](https://user-images.githubusercontent.com/36043248/112213614-2d2c9e00-8c16-11eb-8e76-e4ca32eacb9e.PNG)
+
 8. Highlight the entire table (CTRL+A) and press 'F12'. This will retrieve the definition for every word in the table
-9. Highlight the entire table again after retriving the defintions and export the data to a '.xlsx' file (store in same location as Apache POI folder i.e. in project folder)
+9. Highlight the entire table again after retriving the defintions and export the data to a file named 'Kindle_VocabBuilder_Initial.xlsx' (store in same location as Apache POI folder i.e. in project folder)
 
 ## Finalisation
 10. Simply run 'exportNotes.java' followed by 'exportVocabBuilder.java'. Two files will be outputted in the current directory.
