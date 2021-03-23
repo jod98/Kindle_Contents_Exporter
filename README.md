@@ -22,7 +22,7 @@
 
 ## Configuring 'exportVocabBuilder.java'
 6. Download Kindle Mate @ https://kmate.me/download/
-7. Open the app and navigate to the 'Vocabulary Words' -> 'Learning'. You will now see all the words that exist in your Kindle Vocab Builder
+7. Open the app, connect your Kindle and navigate to the 'Vocabulary Words' -> 'Learning'. You will now see all the words that exist in your Kindle Vocab Builder
 
 ![KindleMateSetup_1](https://user-images.githubusercontent.com/36043248/112213614-2d2c9e00-8c16-11eb-8e76-e4ca32eacb9e.PNG)
 
@@ -31,3 +31,5 @@
 
 ## Finalisation
 10. Simply run 'exportNotes.java' followed by 'exportVocabBuilder.java'. Two files will be outputted in the current directory.
+
+N.B: Ensure the path of the 'kindleInputFile' variable in 'exportNotes.java' is correct
