@@ -6,9 +6,9 @@
 
 ![ExportedKindleNotes](https://user-images.githubusercontent.com/36043248/112213886-7b41a180-8c16-11eb-816e-910bdc803f36.PNG)
 
-#### Sample of Exported Kindle Vocab-Builder (Notes): 
+#### Sample of Exported Kindle Vocab-Builder (Notes) -> N.B. Yet to add my definitions: 
 
-![Website](https://user-images.githubusercontent.com/36043248/104812522-b381c980-57fa-11eb-886d-c49ff65a9087.PNG)
+![VocabExported](https://user-images.githubusercontent.com/36043248/112234947-91ab2580-8c35-11eb-8d17-b70b49a00b54.PNG)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
