@@ -16,7 +16,7 @@
 2. Clone the repository and add the two files 'exportNotes.java' and 'exportVocabBuilder.java' to the source file in the project folder
 
 ## Configuring 'exportNotes.java'
-3. Download the following zip files @ https://bit.ly/3rkiewF
+3. Download the following zip files @ https://bit.ly/3LPahv5
 4. Navigate to 'File' -> 'Project Stucture' -> 'Modules' -> '+' to create a new project library. Add all the .jar files within the 'Apache POI' folder click 'Apply'. For Help: https://youtu.be/aPr-R-Ue0Ew
 5. Navigate to 'File' -> 'Project Stucture' -> 'Modules' -> '+' to create a new project library. Add all the .jar files within the 'Spire XLS' folder click 'Apply' i.e. just 'Spire.Xls.jar'
 
